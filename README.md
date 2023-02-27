@@ -1,2 +1,2 @@
 # team_square_roots
-WiBD - Data Science Olympian
+WiBD - Data Science Olympians
